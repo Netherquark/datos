@@ -17,8 +17,8 @@ Develop functions to compute the standard deviation and variance of a dataset.
 
 ## Checklist
 
-1. [ ] Initialize CMake build system.
-2. [ ] Configure CMake for the project.
+1. [x] Initialize CMake build system.
+2. [x] Configure CMake for the project.
 3. [ ] Write user stories for calculating standard deviation and variance.
 4. [ ] Define acceptance criteria for each user story.
 5. [ ] Create a GitHub issue tracking each user story.
@@ -39,6 +39,7 @@ Develop functions to compute the standard deviation and variance of a dataset.
 20. [ ] Tag a release version in Git once the features are complete and stable.
 21. [ ] Update release notes with changes and improvements.
 22. [ ] Make the release artifacts available for distribution.
+23. [ ] Upgrade to multiplatform CMake
 
 ## Acknowledgements
 
