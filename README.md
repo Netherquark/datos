@@ -30,8 +30,8 @@ Develop functions to compute the standard deviation and variance of a dataset.
 - [ ] Write integration tests to verify interactions between components.
 - [ ] Document code using Doxygen comments.
 - [ ] Generate documentation using Doxygen. Review and update documentation as needed.
-- [ ] Set up GitHub Actions for automated testing and building.
-- [ ] Configure GitHub Actions to run unit tests and integration tests on each push.
+- [X] Set up GitHub Actions for automated testing and building.
+- [X] Configure GitHub Actions to run unit tests and integration tests on each push.
 - [ ] Ensure build artifacts are generated and packaged correctly.
 - [ ] Conduct code reviews to ensure code quality and adherence to coding style.
 - [ ] Generate synthetic datasets and test comprehensively with them.
